@@ -6,8 +6,6 @@ An interactive **dynamic pricing and sales analytics dashboard** built with Pyth
 
 **[Try the Live Dashboard](https://dynamic-pricing-strategy-optimizer-zdkugrumeu4fqwhzejplc4.streamlit.app/)**
 
-> Replace `YOUR_STREAMLIT_APP_URL` with your Streamlit deployment link after deployment.
-
 ---
 
 ## 🎯 Problem Statement
